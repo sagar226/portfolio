@@ -8733,7 +8733,7 @@ a.bg-dark:focus,a.bg-dark:hover,button.bg-dark:focus,button.bg-dark:hover {
   }
 
   .mr-lg-1,.mx-lg-1 {
-    margin-right: .25rem!important;
+    margin-right: 2.25rem!important;
   }
 
   .mb-lg-1,.my-lg-1 {
@@ -8741,7 +8741,7 @@ a.bg-dark:focus,a.bg-dark:hover,button.bg-dark:focus,button.bg-dark:hover {
   }
 
   .ml-lg-1,.mx-lg-1 {
-    margin-left: .25rem!important;
+    margin-left: 2.25rem!important;
   }
 
   .m-lg-2 {
@@ -9829,6 +9829,10 @@ a.text-dark:focus,a.text-dark:hover {
   line-height: 3.1rem;
 }
 .projects-size div div p{
+	font-size: 17px;
+	 
+}
+.projects-size div div li{
 	font-size: 17px;
 	 
 }
